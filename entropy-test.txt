@@ -1,3 +1,5 @@
+# This file contains strings of different length generated using https://passwordsgenerator.net/ to test the string entropy detection in secret scanners
+
 test8: "7byNbmSW"
 test10: "xLJ4T3e3rw"
 test12: "MK5ajHMeYmbs"
